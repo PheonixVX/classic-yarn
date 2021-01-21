@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_58 net/minecraft/block/ToggleableTransparentBlock
-	FIELD field_185 isTransparent Z

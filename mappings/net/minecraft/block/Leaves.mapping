@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_68 net/minecraft/block/Leaves
-	METHOD method_145 setFancy (Z)V

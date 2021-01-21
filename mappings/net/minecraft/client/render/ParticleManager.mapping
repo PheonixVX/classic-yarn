@@ -1,4 +1,0 @@
-CLASS net/minecraft/class_255 net/minecraft/client/render/ParticleManager
-	METHOD <init> (Lnet/minecraft/class_101;Lnet/minecraft/class_198;)V
-		ARG 1 world
-		ARG 2 textureManagaer

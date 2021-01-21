@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_197 net/minecraft/util/HttpResourceThread
-	FIELD field_804 url Ljava/lang/String;

@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_243 net/minecraft/client/MinecraftClient
-	COMMENT The Main entrypoint for the client. Ran right after MinecraftApplet has started.
